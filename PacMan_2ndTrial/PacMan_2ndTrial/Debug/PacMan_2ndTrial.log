@@ -1,0 +1,8 @@
+﻿  Main.cpp
+  Player.cpp
+  Renderer.cpp
+C:\Workspace\CPP\TestingOut\PacMan_2ndTrial\PacMan_2ndTrial\Renderer.cpp(26,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Workspace\CPP\TestingOut\PacMan_2ndTrial\PacMan_2ndTrial\Renderer.cpp(27,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Vector2.cpp
+  Generating Code...
+  PacMan_2ndTrial.vcxproj -> C:\Workspace\CPP\TestingOut\PacMan_2ndTrial\Debug\PacMan_2ndTrial.exe
